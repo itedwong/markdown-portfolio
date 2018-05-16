@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_My recent goal is to become a **full-stack JS developer**._ Besides learning programming itself, I also need to learn **UX/UI design**.
