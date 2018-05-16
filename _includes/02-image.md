@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![TED Bear](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkPf-l76rcmOzVpfnbUQW0iPMQhaA2KNzm3IK5RV23U3v1itFa)
